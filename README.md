@@ -11,7 +11,6 @@ Our Smart India Hackathon project aims at using an LSTM (Long Short-Term Memory)
 - **Scalable for More Commodities**:Modular pipeline can be extended to more crops with minor configuration changes.
 - **Buffer Stock Forecasting (Future Enhancement)**:Designed to be extended with buffer stock modules to help predict storage requirements and prevent shortages/surpluses..
 - **Evaluation Metrics**:Uses Root Mean Square Error (RMSE) for model evaluation and easy integration with metrics dashboard or Excel reports.
-- 
 
 ---
 
