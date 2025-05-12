@@ -1,0 +1,5 @@
+pandas
+datagovindia
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
